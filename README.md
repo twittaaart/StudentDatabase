@@ -1,1 +1,1 @@
-This is an android app that contains studentdatabse related information.
+This is a simple Android App that contains studentdatabse related information.
