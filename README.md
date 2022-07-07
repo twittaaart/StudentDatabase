@@ -1,2 +1,2 @@
-This is a simple Android App that contains studentdatabse related information.
+This is a simple Android App that perform Studentdatabse related function.
 #java #android #sqlite
